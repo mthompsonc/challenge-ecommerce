@@ -1,1 +1,42 @@
 /* you can add any styles you think could improve user's experience */
+.count{
+
+}
+
+.productsApp{
+  background-color: #D0C9C7
+}
+
+.products{
+  display: inline-block;
+  margin: 1em 2.5em;
+  background-color: #FFFFFF;
+  border-radius: 5px
+}
+
+.products:hover{
+  transform: scale(1.12);
+  transition: transform .3s;
+}
+
+.img{
+  border: 2px solid black;
+}
+
+.text{
+  margin: 10px;
+}
+
+.btn{
+  background-color: purple;
+  color: #FFFF;
+  padding: 1em 2.5em;
+  border-radius: 6px;
+  margin-left: 15%;
+  margin-bottom: 0.4em;
+}
+
+.btn:hover{
+  background-color: green;
+  transition: 3s;
+}
