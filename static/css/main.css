@@ -1,6 +1,12 @@
 /* you can add any styles you think could improve user's experience */
 .count{
-
+  padding: 0.2em 1em;
+  background-color: #68CA35;
+  color: #FFFFFF;
+  font-weight: bold;
+  width: 5em;
+  border-radius: 10px;
+  margin-bottom: 2em;
 }
 
 .productsApp{
@@ -38,5 +44,5 @@
 
 .btn:hover{
   background-color: green;
-  transition: 3s;
+  transition: 1s;
 }
